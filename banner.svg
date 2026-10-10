@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title description">
   <title id="title">Chetanshil Kumar Patel - Mechanical Engineer</title>
-  <desc id="description">A technical blueprint banner featuring an aircraft and a ship, representing an interest in aerospace and marine manufacturing.</desc>
+  <desc id="description">A mechanical engineering blueprint banner with a sports car, mechanical equipment, and a CAD software interface.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071626"/>
@@ -32,20 +32,62 @@
   </g>
 
   <g fill="none" stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M1148 52L1170 141L1377 205L1377 224L1182 196L1181 268L1247 312L1247 328L1169 301L1091 328L1091 312L1157 268L1156 196L961 224L961 205L1168 141Z" fill="#55d6d0" fill-opacity=".08" stroke-width="2.5"/>
-    <path d="M1169 141V301M1070 211L1156 224M1268 211L1182 224" stroke-opacity=".55" stroke-width="1.5"/>
-    <path d="M1012 178L1053 165M1286 165L1327 178" stroke="#64aaff" stroke-opacity=".65" stroke-width="1.5"/>
+    <circle cx="894" cy="160" r="43" stroke-width="2"/>
+    <circle cx="894" cy="160" r="28" stroke-opacity=".75" stroke-width="2"/>
+    <circle cx="894" cy="160" r="9" stroke-width="2"/>
+    <path d="M894 108V124M894 196V212M842 160H858M930 160H946M857 123L868 134M920 186L931 197M931 123L920 134M868 186L857 197" stroke-width="7"/>
+    <path d="M894 132V188M866 160H922M874 140L914 180M914 140L874 180" stroke-opacity=".65" stroke-width="1.4"/>
+  </g>
+  <g fill="none" stroke="#64aaff" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M939 192L978 231L970 239L931 200M972 215L981 206C989 198 1001 200 1008 206L987 227M971 216L958 229" stroke-width="3"/>
+    <path d="M866 227V250L878 262H912L925 250V227M878 262V271M912 262V271M870 235H921" stroke-opacity=".78" stroke-width="2"/>
+    <circle cx="884" cy="244" r="7" stroke-width="2"/>
+    <circle cx="909" cy="244" r="7" stroke-width="2"/>
+    <path d="M855 278H1000M855 286H1000" stroke-opacity=".3" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="1020" y="54" width="407" height="196" rx="10" fill="#091b2c" stroke="#64aaff" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M1020 81H1427" stroke="#64aaff" stroke-opacity=".45"/>
+    <circle cx="1038" cy="68" r="3" fill="#ff807c"/>
+    <circle cx="1050" cy="68" r="3" fill="#f5c66c"/>
+    <circle cx="1062" cy="68" r="3" fill="#55d6d0"/>
+    <text x="1080" y="73" fill="#9bb5cb" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.5">CAD DESIGN WORKSPACE</text>
+    <path d="M1020 81H1071V250H1020Z" fill="#0d2235"/>
+    <g stroke="#6ea9d2" stroke-opacity=".62" stroke-width="1">
+      <path d="M1032 97H1059M1032 106H1052M1032 120H1059M1032 129H1053M1032 143H1059M1032 152H1050M1032 166H1059M1032 175H1052"/>
+      <circle cx="1035" cy="190" r="3" fill="#55d6d0"/>
+      <path d="M1044 190H1059M1032 204H1059M1032 213H1053"/>
+    </g>
+    <rect x="1071" y="81" width="356" height="169" fill="url(#grid)"/>
+    <path d="M1071 220L1427 220" stroke="#64aaff" stroke-opacity=".23"/>
+    <g fill="none" stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M1196 117H1283L1300 135V185L1283 202H1196L1179 185V135Z" fill="#55d6d0" fill-opacity=".06" stroke-width="2"/>
+      <path d="M1196 117V202M1283 117V202M1179 135H1300M1179 185H1300" stroke-opacity=".68" stroke-width="1.2"/>
+      <circle cx="1239" cy="159" r="25" stroke-width="2"/>
+      <circle cx="1239" cy="159" r="9" stroke-width="1.5"/>
+      <path d="M1239 125V134M1239 184V193M1205 159H1214M1264 159H1273M1215 135L1222 142M1256 176L1263 183M1263 135L1256 142M1222 176L1215 183" stroke-width="3"/>
+      <path d="M1171 212V216M1310 212V216M1171 214H1310" stroke="#64aaff" stroke-width="1"/>
+    </g>
+    <text x="1172" y="233" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1">3D PART MODEL  /  DIMENSIONED DRAWING</text>
   </g>
 
   <g fill="none" stroke="#64aaff" stroke-linecap="round">
-    <path d="M855 367C924 355 980 355 1046 367S1168 379 1234 367S1356 355 1425 367" stroke-opacity=".7" stroke-width="2"/>
-    <path d="M855 383C924 371 980 371 1046 383S1168 395 1234 383S1356 371 1425 383" stroke-opacity=".42" stroke-width="1.5"/>
+    <path d="M814 336C910 325 986 325 1074 336S1235 347 1323 336S1402 329 1450 334" stroke-opacity=".35" stroke-width="1.5"/>
+    <path d="M814 417H1450M826 425H1438" stroke-opacity=".42" stroke-width="1.5"/>
   </g>
-  <g stroke="#55d6d0" stroke-linejoin="round">
-    <path d="M922 401H1388L1349 438H984Z" fill="#55d6d0" fill-opacity=".13" stroke-width="2"/>
-    <path d="M1055 401V374H1196V401M1080 374V349H1166V374M1097 349V334H1148V349" fill="#102d49" stroke-width="2"/>
-    <path d="M1002 414H1326M1070 393H1090M1110 393H1130M1150 393H1170" fill="none" stroke-opacity=".7" stroke-width="1.5"/>
-    <path d="M1360 438L1388 401H1400L1375 438Z" fill="#64aaff" fill-opacity=".12" stroke-width="1.5"/>
+  <g stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M835 376L861 361L914 352L966 329L1086 329L1138 352L1292 359L1370 373L1415 388L1425 407H826L829 390Z" fill="#55d6d0" fill-opacity=".12" stroke-width="2.5"/>
+    <path d="M966 337L923 356L1067 356L1054 337ZM1080 337L1095 356L1270 361L1228 337Z" fill="#64aaff" fill-opacity=".12" stroke-width="1.5"/>
+    <path d="M1070 333L1077 359M1095 359L1107 337M870 378H918M1298 379H1371" stroke-opacity=".76" stroke-width="1.6"/>
+    <path d="M835 382L869 379L858 392H831M1373 379L1404 388L1410 395H1379Z" fill="#64aaff" fill-opacity=".2" stroke-width="1.5"/>
+    <circle cx="926" cy="402" r="25" fill="#081726" stroke-width="3"/>
+    <circle cx="926" cy="402" r="12" stroke-width="2"/>
+    <circle cx="926" cy="402" r="3" fill="#55d6d0" stroke="none"/>
+    <circle cx="1316" cy="402" r="25" fill="#081726" stroke-width="3"/>
+    <circle cx="1316" cy="402" r="12" stroke-width="2"/>
+    <circle cx="1316" cy="402" r="3" fill="#55d6d0" stroke="none"/>
+    <path d="M950 402H1291" stroke-opacity=".35" stroke-width="1.3"/>
   </g>
-  <text x="1270" y="468" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">AEROSPACE  /  MARINE</text>
+  <text x="883" y="461" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">MECHANICAL EQUIPMENT  /  CAD SOFTWARE  /  AUTOMOTIVE</text>
 </svg>
