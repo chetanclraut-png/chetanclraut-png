@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title description">
   <title id="title">Chetanshil Kumar Patel - Mechanical Engineer</title>
-  <desc id="description">A mechanical engineering blueprint banner with a sports car, mechanical equipment, and a CAD software interface.</desc>
+  <desc id="description">A colorful mechanical engineering banner featuring a sports car, aircraft CAD model, ship, factory, engine parts, workshop equipment, and CAD/CAM software.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071626"/>
@@ -9,6 +9,19 @@
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#55d6d0"/>
       <stop offset="1" stop-color="#64aaff"/>
+    </linearGradient>
+    <linearGradient id="carPaint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffcf68"/>
+      <stop offset=".52" stop-color="#ff774c"/>
+      <stop offset="1" stop-color="#e94869"/>
+    </linearGradient>
+    <linearGradient id="aircraftPaint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#effcff"/>
+      <stop offset="1" stop-color="#61adff"/>
+    </linearGradient>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#44e0cc"/>
+      <stop offset="1" stop-color="#1687d2"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#8bb9d5" stroke-opacity=".08" stroke-width="1"/>
@@ -52,7 +65,7 @@
     <circle cx="1038" cy="68" r="3" fill="#ff807c"/>
     <circle cx="1050" cy="68" r="3" fill="#f5c66c"/>
     <circle cx="1062" cy="68" r="3" fill="#55d6d0"/>
-    <text x="1080" y="73" fill="#9bb5cb" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.5">CAD DESIGN WORKSPACE</text>
+    <text x="1080" y="73" fill="#9bb5cb" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.5">CAD / CAM DESIGN WORKSPACE</text>
     <path d="M1020 81H1071V250H1020Z" fill="#0d2235"/>
     <g stroke="#6ea9d2" stroke-opacity=".62" stroke-width="1">
       <path d="M1032 97H1059M1032 106H1052M1032 120H1059M1032 129H1053M1032 143H1059M1032 152H1050M1032 166H1059M1032 175H1052"/>
@@ -62,14 +75,39 @@
     <rect x="1071" y="81" width="356" height="169" fill="url(#grid)"/>
     <path d="M1071 220L1427 220" stroke="#64aaff" stroke-opacity=".23"/>
     <g fill="none" stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
-      <path d="M1196 117H1283L1300 135V185L1283 202H1196L1179 185V135Z" fill="#55d6d0" fill-opacity=".06" stroke-width="2"/>
-      <path d="M1196 117V202M1283 117V202M1179 135H1300M1179 185H1300" stroke-opacity=".68" stroke-width="1.2"/>
-      <circle cx="1239" cy="159" r="25" stroke-width="2"/>
-      <circle cx="1239" cy="159" r="9" stroke-width="1.5"/>
-      <path d="M1239 125V134M1239 184V193M1205 159H1214M1264 159H1273M1215 135L1222 142M1256 176L1263 183M1263 135L1256 142M1222 176L1215 183" stroke-width="3"/>
-      <path d="M1171 212V216M1310 212V216M1171 214H1310" stroke="#64aaff" stroke-width="1"/>
+      <path d="M1096 163L1118 158L1172 130L1182 132L1155 159L1223 153L1271 130L1280 133L1254 160L1329 168L1372 158L1382 162L1354 177L1373 187L1367 192L1328 183L1246 179L1227 198L1218 197L1224 177L1158 177L1123 187L1117 183L1141 168L1096 166Z" fill="url(#aircraftPaint)" fill-opacity=".88" stroke-width="1.6"/>
+      <path d="M1161 162L1262 163M1157 171L1218 171M1328 168L1351 170" stroke="#167cb5" stroke-opacity=".8" stroke-width="1.2"/>
+      <circle cx="1355" cy="173" r="3" fill="#ffbd58" stroke="none"/>
+      <path d="M1084 207H1398M1084 215H1398" stroke="#64aaff" stroke-opacity=".22" stroke-width="1"/>
     </g>
-    <text x="1172" y="233" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1">3D PART MODEL  /  DIMENSIONED DRAWING</text>
+    <text x="1172" y="233" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1">AIRCRAFT MODEL  /  SOLIDWORKS-STYLE CAD</text>
+  </g>
+
+  <g stroke="#71eadb" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M814 280H1063L1038 307L1006 316H861L834 304Z" fill="url(#ocean)" fill-opacity=".65" stroke-width="2"/>
+    <path d="M846 278L867 258H1002L1026 278ZM885 258V239H944V258ZM896 239V228H935V239Z" fill="#f0f7fb" fill-opacity=".95" stroke-width="1.5"/>
+    <path d="M878 269H1004M847 291H1050M859 300H1039" fill="none" stroke="#b4fff0" stroke-opacity=".8" stroke-width="1.3"/>
+    <rect x="880" y="265" width="11" height="8" fill="#ffbd58" stroke="none"/>
+    <rect x="899" y="265" width="11" height="8" fill="#ff754e" stroke="none"/>
+    <rect x="918" y="265" width="11" height="8" fill="#ffe17d" stroke="none"/>
+    <path d="M814 323C841 316 871 316 899 323S956 330 984 323S1036 317 1063 323" fill="none" stroke="#45caff" stroke-opacity=".8" stroke-width="2"/>
+  </g>
+
+  <g stroke="#ffcf70" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M1080 312V250L1105 230L1130 250V312M1130 312V263L1155 241L1180 263V312M1180 312V246L1206 224L1232 246V312M1232 312V265L1255 245L1278 265V312M1075 312H1288" fill="#ff9f4a" fill-opacity=".23" stroke-width="2"/>
+    <path d="M1092 259H1118V278H1092ZM1142 274H1168V291H1142ZM1192 254H1219V274H1192ZM1243 278H1268V295H1243Z" fill="#ffd27a" fill-opacity=".88" stroke-width="1.4"/>
+    <path d="M1096 312V300H1117V312M1145 312V300H1166V312M1195 312V294H1217V312M1246 312V300H1267V312" fill="#18364d" stroke-width="1.3"/>
+    <path d="M1296 310V255M1287 270H1305M1287 284H1305M1287 298H1305" stroke="#64aaff" stroke-width="2"/>
+    <circle cx="1296" cy="245" r="9" fill="#ff647c" stroke-width="1.4"/>
+  </g>
+
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M852 324V301H868V324M879 324V291H895V324M905 324V305H921V324" stroke="#ffbd58" stroke-width="5"/>
+    <path d="M846 326H930M846 331H930" stroke="#64aaff" stroke-opacity=".65" stroke-width="1.4"/>
+    <path d="M941 307H966L978 317V333H936V317ZM949 307V297H962L971 307" stroke="#e9f6ff" stroke-width="2"/>
+    <path d="M941 316H951M958 316H970M936 326H978" stroke="#55d6d0" stroke-width="1.4"/>
+    <circle cx="946" cy="333" r="4" fill="#ffbd58" stroke="#ffbd58"/>
+    <circle cx="969" cy="333" r="4" fill="#ffbd58" stroke="#ffbd58"/>
   </g>
 
   <g fill="none" stroke="#64aaff" stroke-linecap="round">
@@ -77,10 +115,10 @@
     <path d="M814 417H1450M826 425H1438" stroke-opacity=".42" stroke-width="1.5"/>
   </g>
   <g stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M835 376L861 361L914 352L966 329L1086 329L1138 352L1292 359L1370 373L1415 388L1425 407H826L829 390Z" fill="#55d6d0" fill-opacity=".12" stroke-width="2.5"/>
-    <path d="M966 337L923 356L1067 356L1054 337ZM1080 337L1095 356L1270 361L1228 337Z" fill="#64aaff" fill-opacity=".12" stroke-width="1.5"/>
-    <path d="M1070 333L1077 359M1095 359L1107 337M870 378H918M1298 379H1371" stroke-opacity=".76" stroke-width="1.6"/>
-    <path d="M835 382L869 379L858 392H831M1373 379L1404 388L1410 395H1379Z" fill="#64aaff" fill-opacity=".2" stroke-width="1.5"/>
+    <path d="M835 376L861 361L914 352L966 329L1086 329L1138 352L1292 359L1370 373L1415 388L1425 407H826L829 390Z" fill="url(#carPaint)" stroke="#ffe09a" stroke-width="2.5"/>
+    <path d="M966 337L923 356L1067 356L1054 337ZM1080 337L1095 356L1270 361L1228 337Z" fill="#a9efff" fill-opacity=".78" stroke="#d7faff" stroke-width="1.5"/>
+    <path d="M1070 333L1077 359M1095 359L1107 337M870 378H918M1298 379H1371" stroke="#fff1c1" stroke-opacity=".92" stroke-width="1.6"/>
+    <path d="M835 382L869 379L858 392H831M1373 379L1404 388L1410 395H1379Z" fill="#ffe67b" stroke="#fff1c1" stroke-width="1.5"/>
     <circle cx="926" cy="402" r="25" fill="#081726" stroke-width="3"/>
     <circle cx="926" cy="402" r="12" stroke-width="2"/>
     <circle cx="926" cy="402" r="3" fill="#55d6d0" stroke="none"/>
@@ -89,5 +127,6 @@
     <circle cx="1316" cy="402" r="3" fill="#55d6d0" stroke="none"/>
     <path d="M950 402H1291" stroke-opacity=".35" stroke-width="1.3"/>
   </g>
-  <text x="883" y="461" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">MECHANICAL EQUIPMENT  /  CAD SOFTWARE  /  AUTOMOTIVE</text>
+  <rect x="815" y="448" width="630" height="30" rx="15" fill="#0a1d30" stroke="#64aaff" stroke-opacity=".42"/>
+  <text x="834" y="468" fill="#a8dfff" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">CAD  /  CAM  /  SOLIDWORKS  /  ENGINEERING  /  MANUFACTURING</text>
 </svg>
