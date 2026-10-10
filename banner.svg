@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title description">
   <title id="title">Chetanshil Kumar Patel - Mechanical Engineer</title>
-  <desc id="description">A colorful mechanical engineering banner featuring a sports car, aircraft CAD model, ship, factory, engine parts, workshop equipment, and CAD/CAM software.</desc>
+  <desc id="description">A colorful mechanical engineering banner featuring Chetanshil's profile photo in the profile header, a sports car, aircraft CAD model, ship, factory, engine parts, workshop equipment, and CAD/CAM software.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071626"/>
@@ -44,6 +44,17 @@
     <text x="92" y="447" fill="#75a1c2" font-size="14" letter-spacing="2">CAD  /  PRODUCTION  /  QUALITY  /  LEAN</text>
   </g>
 
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M831 79H852V69H874V79H895V69H918V79H941V69H963V79H984V104H831Z" fill="#d56d45" fill-opacity=".78" stroke="#ffbd58" stroke-width="2"/>
+    <path d="M839 86H859V100H839ZM867 84H887V100H867ZM895 84H915V100H895ZM923 84H943V100H923ZM951 86H976V100H951Z" fill="#ffcf70" fill-opacity=".78" stroke="#ffe8ac" stroke-width="1.2"/>
+    <path d="M843 104V107M872 104V107M901 104V107M930 104V107M960 104V107M835 107H974" fill="none" stroke="#64aaff" stroke-width="2"/>
+    <circle cx="850" cy="149" r="4" fill="#55d6d0"/>
+    <circle cx="969" cy="149" r="4" fill="#55d6d0"/>
+    <path d="M849 79V73M878 79V73M907 79V73M936 79V73M965 79V73" fill="none" stroke="#f4f8fb" stroke-width="1.5"/>
+    <path d="M841 69H975" fill="none" stroke="#64aaff" stroke-opacity=".46" stroke-width="1.3"/>
+    <text x="845" y="64" fill="#b7c9d9" font-family="Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1.2">ENGINE BLOCK / PISTONS</text>
+  </g>
+
   <g fill="none" stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
     <circle cx="894" cy="160" r="43" stroke-width="2"/>
     <circle cx="894" cy="160" r="28" stroke-opacity=".75" stroke-width="2"/>
@@ -80,7 +91,7 @@
       <circle cx="1355" cy="173" r="3" fill="#ffbd58" stroke="none"/>
       <path d="M1084 207H1398M1084 215H1398" stroke="#64aaff" stroke-opacity=".22" stroke-width="1"/>
     </g>
-    <text x="1172" y="233" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1">AIRCRAFT MODEL  /  SOLIDWORKS-STYLE CAD</text>
+    <text x="1172" y="233" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1">AIRCRAFT MODEL  /  CAD WORKFLOW</text>
   </g>
 
   <g stroke="#71eadb" stroke-linejoin="round" stroke-linecap="round">
