@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title description">
+  <title id="title">Chetanshil Kumar Patel - Mechanical Engineer</title>
+  <desc id="description">A technical blueprint banner featuring an aircraft and a ship, representing an interest in aerospace and marine manufacturing.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071626"/>
+      <stop offset="1" stop-color="#102d49"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55d6d0"/>
+      <stop offset="1" stop-color="#64aaff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8bb9d5" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="500" rx="24" fill="url(#background)"/>
+  <rect width="1500" height="500" rx="24" fill="url(#grid)"/>
+  <path d="M0 430H1500" stroke="#64aaff" stroke-opacity=".13"/>
+  <path d="M770 34V466" stroke="#64aaff" stroke-opacity=".25"/>
+  <circle cx="770" cy="250" r="4" fill="#55d6d0"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="92" y="125" fill="#71ddd4" font-size="18" font-weight="700" letter-spacing="4">MECHANICAL ENGINEER</text>
+    <text x="88" y="215" fill="#f1f6fb" font-size="54" font-weight="700" letter-spacing="1">CHETANSHIL KUMAR</text>
+    <text x="90" y="278" fill="#f1f6fb" font-size="54" font-weight="700" letter-spacing="1">PATEL</text>
+    <rect x="92" y="308" width="94" height="4" rx="2" fill="url(#accent)"/>
+    <text x="92" y="350" fill="#b7c9d9" font-size="21">Automotive production experience</text>
+    <text x="92" y="389" fill="#b7c9d9" font-size="21">Interested in aircraft &amp; ship manufacturing</text>
+    <text x="92" y="447" fill="#75a1c2" font-size="14" letter-spacing="2">CAD  /  PRODUCTION  /  QUALITY  /  LEAN</text>
+  </g>
+
+  <g fill="none" stroke="#55d6d0" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M1148 52L1170 141L1377 205L1377 224L1182 196L1181 268L1247 312L1247 328L1169 301L1091 328L1091 312L1157 268L1156 196L961 224L961 205L1168 141Z" fill="#55d6d0" fill-opacity=".08" stroke-width="2.5"/>
+    <path d="M1169 141V301M1070 211L1156 224M1268 211L1182 224" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M1012 178L1053 165M1286 165L1327 178" stroke="#64aaff" stroke-opacity=".65" stroke-width="1.5"/>
+  </g>
+
+  <g fill="none" stroke="#64aaff" stroke-linecap="round">
+    <path d="M855 367C924 355 980 355 1046 367S1168 379 1234 367S1356 355 1425 367" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M855 383C924 371 980 371 1046 383S1168 395 1234 383S1356 371 1425 383" stroke-opacity=".42" stroke-width="1.5"/>
+  </g>
+  <g stroke="#55d6d0" stroke-linejoin="round">
+    <path d="M922 401H1388L1349 438H984Z" fill="#55d6d0" fill-opacity=".13" stroke-width="2"/>
+    <path d="M1055 401V374H1196V401M1080 374V349H1166V374M1097 349V334H1148V349" fill="#102d49" stroke-width="2"/>
+    <path d="M1002 414H1326M1070 393H1090M1110 393H1130M1150 393H1170" fill="none" stroke-opacity=".7" stroke-width="1.5"/>
+    <path d="M1360 438L1388 401H1400L1375 438Z" fill="#64aaff" fill-opacity=".12" stroke-width="1.5"/>
+  </g>
+  <text x="1270" y="468" fill="#75a1c2" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">AEROSPACE  /  MARINE</text>
+</svg>
